@@ -1,0 +1,7 @@
+{
+  "name": "app-htek",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
